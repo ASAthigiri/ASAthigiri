@@ -1,4 +1,5 @@
 ### <div align="center">Hi! 👋, I'm A.S.Athigiri Arulalan , a front-end developer 👨‍💻 started journey since 2022 🚀</div>  
+---
   
 
 - 🎓 I’m final-year student.  
