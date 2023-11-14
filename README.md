@@ -1,32 +1,19 @@
-### <div align="center">Hi! 👋, I'm A.S.Athigiri Arulalan , a front-end developer 👨‍💻 started journey since 2022 🚀</div> 
+<div align="center">Hi! 👋, I'm A.S.Athigiri Arulalan , a front-end developer 👨‍💻 started journey since 2022 🚀</div> 
 ----
-  
-
-- 🎓 I’m final-year student.  
-  
-
-- 🌱 I’m currently learning React js and Node.js  
-
-
-- ❓ Ask me about anything related to front-end tools, salesforce and  AWS-related technologies  
-  
-
-- ⚡ Fun fact: I am good boy 🤩  
-  
-
-- 🎖️ Intrested in designing website in creative way ⚓  
-  
-
-- 🌐 My Portfolio: [Click here](https://portfolio-a-s-athigiri-arulalan.vercel.app/)  
-  
-
-<br/>  
+  -🎓 I’m final-year student.  
+  -🌱 I’m currently learning React js and Node.js  
+  -❓ Ask me about anything related to front-end tools, salesforce and  AWS-related technologies  
+  -⚡ Fun fact: I am good boy 🤩  
+  -🎖️ Intrested in designing website in creative way ⚓  
+  -🌐 My Portfolio: [Click here](https://portfolio-a-s-athigiri-arulalan.vercel.app/)  
+  <br>  
 
 
 ## My Skill Set :
+---
 
 ### Frontend  
-<hr>
+ 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  &ensp;&ensp; 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  &ensp;&ensp; 
@@ -48,7 +35,7 @@
 
 
 ### Backend:
-<hr>
+ 
 <div align="left">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  &ensp;&ensp;
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  &ensp;&ensp;
@@ -60,7 +47,7 @@
 
 
 ### DevOps:
-<hr>
+ 
 <div align="left">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  &ensp;&ensp;
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  &ensp;&ensp;
