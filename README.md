@@ -1,6 +1,10 @@
 ### <div align="center">Hi! 👋, I'm A.S.Athigiri Arulalan , a front-end developer 👨‍💻 started journey since 2022 🚀</div>  
----
+
   
+     
+   <img  align="right" src="https://img.freepik.com/free-vector/worldwide-delivery-service-global-navigation-ordering-system-world-tourism-idea-vacation-spot-vacation-spot-choosing-package-status-tracking-concept-illustration_335657-2057.jpg?w=740&t=st=1699978553~exp=1699979153~hmac=1cf8784d1d8086a6cd175604d7f02b866a3a4f58564f92b449c525658013fa22" height="300" width="300"  ></img>
+     
+ 
 
 - 🎓 I’m final-year student.  
   
