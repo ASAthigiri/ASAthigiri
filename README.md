@@ -93,10 +93,6 @@
 
 <br/>  
 
-## Published paper name:    
-A mathematical model for cost budget optimization in the early stage of house construction budget analysis. [Check out](https://www.tandfonline.com/doi/abs/10.1080/09720502.2021.2017596)  
-  
-
 <br/>  
 
   
