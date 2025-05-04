@@ -6,7 +6,7 @@
      
  
 
-- 🎓 I’m final-year student.  
+- 🎓 I’m M.E student.  
   
 
 - 🌱 I’m currently learning React js and Node.js  
